@@ -25,7 +25,7 @@ To run this project locally, follow these steps:
 1. **Clone the repository**  
    Open your terminal and clone the project repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/Ayush-Rana-1713/Student-Registration
    ```
    
 2. **Open the project in Visual Studio**  
@@ -98,7 +98,7 @@ This project uses SQL Server to manage and store data. To set up the database:
 
 ## Contributing
 
-If you would like to contribute to this project, feel free to fork the repository and submit a pull request. Please follow the [contribution guidelines](CONTRIBUTING.md) if provided.
+If you would like to contribute to this project, feel free to fork the repository and submit a pull request.
 
 1. Fork the repository
 2. Create a new branch: `git checkout -b feature-branch`
